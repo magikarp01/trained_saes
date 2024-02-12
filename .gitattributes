@@ -4,3 +4,7 @@
 2.8b_l15 filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
+2.8b_l0/checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
+2.8b_l1/checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
+2.8b_l15/checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
+2.8b_l2/checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
